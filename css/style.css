@@ -151,4 +151,10 @@ img {
     width: 100%;
     padding: 30px;
   }
+
+  .lessons,
+  .steps,
+  .why-us {
+    margin: 0;
+  }
 }
